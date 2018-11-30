@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Testing\Gradesbook\bin\Debug\Gradesbook.exe.config
+C:\Users\user\Desktop\Testing\Gradesbook\bin\Debug\Gradesbook.exe
+C:\Users\user\Desktop\Testing\Gradesbook\bin\Debug\Gradesbook.pdb
+C:\Users\user\Desktop\Testing\Gradesbook\obj\Debug\Gradesbook.exe
+C:\Users\user\Desktop\Testing\Gradesbook\obj\Debug\Gradesbook.pdb
+C:\Users\user\Desktop\Testing\Gradesbook\obj\Debug\Gradesbook.csprojResolveAssemblyReference.cache
